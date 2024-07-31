@@ -1,0 +1,7 @@
+shopping-client/node_modules/
+shopping-client/.env
+shopping-client/build/
+
+shopping-server/node_modules/
+shopping-server/.env
+shopping-server/build/

@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    // "emitDecoratorMetadata": true,
+    // "experimentalDecorators": true,
+    // "lib": ["ES6"],
+    "outDir": "dist",
+    "rootDir": "./",
+    // "strict": true
+    "allowJs": true,
+    "esModuleInterop": true
+  }
+  // "include": ["src/**/*", "database.ts", "index.ts"],
+  // "exclude": ["node_modules"]
+}
