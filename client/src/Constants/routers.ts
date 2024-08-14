@@ -1,0 +1,5 @@
+export const API_URL = "http://localhost:8000/api"
+export const GET_CATEGORIES = "/category/getCategories"
+export const GET_PRODUCTS = "/category/getCategoriesWithProducts"
+export const ADD_PRODUCT = "/product/addProduct"
+export const ADD_PRODUCTS = "/product/addProducts"
